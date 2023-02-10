@@ -4,7 +4,7 @@
   "description": "",
   "keywords": [],
   "main": "src/index.js",
-  "homepage": "https://github.com/macgvai/Farm-Products-REACT",
+  "homepage": "https://macgvai/Farm-Products-REACT",
   "dependencies": {
     "customize-cra": "1.0.0",
     "react": "17.0.2",
