@@ -12,6 +12,7 @@ export const GlobalStyle = createGlobalStyle`
   }
 
   body {
+    padding-left: calc(100vw - 100%);
     position: relative;
     min-height: 100%;
     font-family: "Inter", "Arial", sans-serif;
