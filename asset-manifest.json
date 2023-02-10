@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/macgvai/Farm-Products-REACT/static/css/main.061cc75a.css",
+    "main.js": "/macgvai/Farm-Products-REACT/static/js/main.afdfc0d2.js",
+    "static/media/about.svg": "/macgvai/Farm-Products-REACT/static/media/about.5ad6d3316f58c9288cb42eef03bbea4e.svg",
+    "static/media/logo.svg": "/macgvai/Farm-Products-REACT/static/media/logo.09a9d6cb694f7ed2b1560ff26298be46.svg",
+    "index.html": "/macgvai/Farm-Products-REACT/index.html",
+    "static/media/checkbox.svg": "/macgvai/Farm-Products-REACT/static/media/checkbox.b1b9520d597b1d0d7850b8498a900dc8.svg",
+    "main.061cc75a.css.map": "/macgvai/Farm-Products-REACT/static/css/main.061cc75a.css.map",
+    "main.afdfc0d2.js.map": "/macgvai/Farm-Products-REACT/static/js/main.afdfc0d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.061cc75a.css",
+    "static/js/main.afdfc0d2.js"
+  ]
+}
